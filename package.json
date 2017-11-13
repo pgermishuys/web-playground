@@ -9,6 +9,7 @@
         "react": "^16.1.1",
         "react-dom": "^16.1.1",
         "react-hot-loader": "^3.0.0",
+        "redux": "^3.7.2",
         "start-server-webpack-plugin": "^2.2.0",
         "webpack": "^3.8.1",
         "webpack-dev-server": "^2.9.4",
